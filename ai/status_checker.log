@@ -1,0 +1,33 @@
+[2025-09-05 11:03:19] INICIANDO verificação para Job ID: 48
+[2025-09-05 11:03:19] Tentando conectar ao BD: host=127.0.0.1 db=magicpro user=magicpro
+[2025-09-05 11:03:19] Conexão com BD bem-sucedida.
+[2025-09-05 11:03:19] Consulta na tabela 'ai_jobs' executada.
+[2025-09-05 11:03:19] Job #48 encontrado. Status no banco: 'processing'
+[2025-09-05 11:03:23] INICIANDO verificação para Job ID: 48
+[2025-09-05 11:03:23] Tentando conectar ao BD: host=127.0.0.1 db=magicpro user=magicpro
+[2025-09-05 11:03:23] Conexão com BD bem-sucedida.
+[2025-09-05 11:03:23] Consulta na tabela 'ai_jobs' executada.
+[2025-09-05 11:03:23] Job #48 encontrado. Status no banco: 'done'
+[2025-09-05 11:03:23] Status 'done' detectado. Buscando produtos...
+[2025-09-05 11:12:16] INICIANDO verificação para Job ID: 49
+[2025-09-05 11:12:16] Tentando conectar ao BD: host=127.0.0.1 db=magicpro user=magicpro
+[2025-09-05 11:12:16] Conexão com BD bem-sucedida.
+[2025-09-05 11:12:16] Consulta na tabela 'ai_jobs' executada.
+[2025-09-05 11:12:16] Job #49 encontrado. Status no banco: 'processing'
+[2025-09-05 11:12:21] INICIANDO verificação para Job ID: 49
+[2025-09-05 11:12:21] Tentando conectar ao BD: host=127.0.0.1 db=magicpro user=magicpro
+[2025-09-05 11:12:21] Conexão com BD bem-sucedida.
+[2025-09-05 11:12:21] Consulta na tabela 'ai_jobs' executada.
+[2025-09-05 11:12:21] Job #49 encontrado. Status no banco: 'processing'
+[2025-09-05 11:12:26] INICIANDO verificação para Job ID: 49
+[2025-09-05 11:12:26] Tentando conectar ao BD: host=127.0.0.1 db=magicpro user=magicpro
+[2025-09-05 11:12:26] Conexão com BD bem-sucedida.
+[2025-09-05 11:12:26] Consulta na tabela 'ai_jobs' executada.
+[2025-09-05 11:12:26] Job #49 encontrado. Status no banco: 'done'
+[2025-09-05 11:12:26] Status 'done' detectado. Buscando produtos...
+[2025-09-05 11:12:51] INICIANDO verificação para Job ID: 49
+[2025-09-05 11:12:51] Tentando conectar ao BD: host=127.0.0.1 db=magicpro user=magicpro
+[2025-09-05 11:12:51] Conexão com BD bem-sucedida.
+[2025-09-05 11:12:51] Consulta na tabela 'ai_jobs' executada.
+[2025-09-05 11:12:51] Job #49 encontrado. Status no banco: 'done'
+[2025-09-05 11:12:51] Status 'done' detectado. Buscando produtos...
